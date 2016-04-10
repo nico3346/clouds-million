@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:sxp="http://sxpdata.microsoft.com/sxp">
+    <title>Latest Windows PowerShell Help Versions</title>
+    <link>http://sxp.microsoft.com/stream/item?channelid=msdntn&amp;feedid=powershellhelpversions&amp;v=2</link>
+    <description>Used to notify customers of the availability of an updated Help file for a Windows PowerShell module.</description>
+    <copyright>Microsoft</copyright>
+    <generator>SXP 3.0</generator>
+    <a10:link rel="self" type="application/rss+xml" href="http://sxp.microsoft.com/stream/item?channelid=msdntn&amp;feedid=powershellhelpversions&amp;v=2" />
+  </channel>
+</rss>
